@@ -10,12 +10,12 @@ A passionate Software Engineer and Data Engineer with a proven track record of b
 
 📜 Certifications:
 
-Software Engineering Certificate – Demonstrating expertise in designing and implementing software solutions.
-Front-End Developer Certificate (React) – Highlighting advanced skills in building responsive and interactive front-end applications using React.js.
+- Software Engineering Certificate – Demonstrating expertise in designing and implementing software solutions.
+- Front-End Developer Certificate (React) – Highlighting advanced skills in building responsive and interactive front-end applications using React.js.
 
 📚 Currently Learning:
 
-Exploring advanced software engineering practices and cloud platforms like AWS and GCP to enhance scalability and performance.
+- Exploring advanced software engineering practices and cloud platforms like AWS and GCP to enhance scalability and performance.
 
 💬 Ask Me About:
 
