@@ -5,9 +5,10 @@ A passionate Software Engineer with a knack for solving complex problems and bui
 
 Designing scalable data pipelines and building robust full-stack applications.
 Exploring innovative ways to optimize ETL workflows for high-performance analytics.
-📚 Currently Learning:
 
+📚 Currently Learning:
 Diving deeper into cloud platforms like AWS and GCP to enhance scalability in modern applications.
+
 💬 Ask Me About:
 
 Crafting scalable data workflows and ETL pipelines.
