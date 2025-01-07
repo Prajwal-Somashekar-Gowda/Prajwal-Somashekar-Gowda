@@ -1,5 +1,6 @@
 💫 About Me:
-A passionate Software Engineer and Data Engineer with a proven track record of building scalable systems, optimizing workflows, and delivering impactful solutions. I thrive on solving complex challenges and turning ideas into reality through technology. My journey has been guided by the principle of growing by empowering others, which has shaped both my professional and personal growth.
+
+A passionate Software Engineer and Data Engineer with a proven track record of building scalable systems, optimizing workflows, and delivering impactful solutions. I thrive on solving complex challenges and turning ideas into reality through technology. 
 
 🌟 What I’m Working On:
 
