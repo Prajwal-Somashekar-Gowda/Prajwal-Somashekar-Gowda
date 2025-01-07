@@ -4,8 +4,9 @@ A passionate Software Engineer and Data Engineer with a proven track record of b
 
 🌟 What I’m Working On:
 
-Developing scalable data pipelines and optimizing ETL workflows for seamless integration and analytics.
-Crafting full-stack applications using React.js, Node.js, and RESTful APIs for secure and efficient user experiences.
+- Developing scalable data pipelines and optimizing ETL workflows for seamless integration and analytics.
+
+- Crafting full-stack applications using React.js, Node.js, and RESTful APIs for secure and efficient user experiences.
 
 📜 Certifications:
 
