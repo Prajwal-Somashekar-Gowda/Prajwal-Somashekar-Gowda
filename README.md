@@ -15,7 +15,7 @@ A passionate Software Engineer and Data Engineer with a proven track record of b
 
 📚 Currently Learning:
 
-- Exploring advanced software engineering practices and cloud platforms like AWS and GCP to enhance scalability and performance.
+- Working towards an AWS Solutions Architect Certification. 
 
 💬 Ask Me About:
 
