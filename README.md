@@ -9,7 +9,7 @@ A passionate Software Engineer and Data Engineer with a proven track record of b
 - Crafting full-stack applications using React.js, Node.js, and RESTful APIs for secure and efficient user experiences.
 
 📜 Certifications:
-
+- AWS Certified Solutions Architect – Associate (Amazon Web Services, Issued July 2025)
 - Software Engineering Certificate – Demonstrating expertise in designing and implementing software solutions.
 - Front-End Developer Certificate (React) – Highlighting advanced skills in building responsive and interactive front-end applications using React.js.
 - Advanced SQL Certificate - Awarded for completing complex SQL challenges.
