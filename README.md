@@ -14,10 +14,6 @@ A passionate Software Engineer and Data Engineer with a proven track record of b
 - Front-End Developer Certificate (React) – Highlighting advanced skills in building responsive and interactive front-end applications using React.js.
 - Advanced SQL Certificate - Awarded for completing complex SQL challenges.
 
-📚 Currently Learning:
-
-- Working towards an AWS Solutions Architect Certification. 
-
 💬 Ask Me About:
 
 - Best practices in software engineering and building full-stack applications.
